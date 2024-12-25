@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/DELL/IdeaProjects/ATB9x-APIAutomationProgram">
+        <classes>
+            <class name="com.aniket.ex_01_RestAssure_Basic.GET.API_Testing_006_GET_Non_BDDStyle_TestNG">
+                            </class>
+        </classes>
+    </test>
+</suite>
