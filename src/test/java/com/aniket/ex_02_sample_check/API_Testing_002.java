@@ -1,4 +1,4 @@
-package com.aniket.ex_01_sample_check;
+package com.aniket.ex_02_sample_check;
 
 import io.restassured.RestAssured;
 

@@ -1,4 +1,4 @@
-package com.aniket.ex_01_sample_check;
+package com.aniket.ex_02_sample_check;
 
 public class API_Testing_003_NonBuilder_Method {
     public void step1() {
